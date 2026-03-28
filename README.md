@@ -1,4 +1,4 @@
-# AI Learning Course
+# My AI Learning Course - Jake
 
 **This is YOUR repo.** Everything you do in this course lives here — code, reflections, experiments, your final project.
 
