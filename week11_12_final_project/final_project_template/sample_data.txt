@@ -1,0 +1,4 @@
+User feedback:
+- Week 4 was fun, but I wanted a second challenge after the first successful run.
+- The attention notebook helped once I changed the query myself.
+- I want OnPoint to make it easier to send structured feedback from chat.

@@ -1,0 +1,6 @@
+numpy
+matplotlib
+torch
+jupyter
+tiktoken
+python-dotenv

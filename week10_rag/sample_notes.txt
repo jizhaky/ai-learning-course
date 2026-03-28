@@ -1,0 +1,7 @@
+Neural networks learn by adjusting weights to reduce loss. A gradient tells each parameter which direction to move so the output becomes less wrong over time.
+
+Attention lets a model compare the current token to earlier tokens. It computes scores, turns them into weights, and uses those weights to mix information from the past.
+
+Retrieval-augmented generation works by searching notes or documents first. The retrieved passages provide grounded context before an answer is written.
+
+PyTorch automates gradient tracking with autograd. You still choose the model, loss function, optimizer, data, and evaluation process.
